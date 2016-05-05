@@ -45,7 +45,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\HI.js" />
      <Compile Include="Assets\ItemS.js" />
      <Compile Include="Assets\VolumeLight\Scripts\UVScroller.js" />
      <Compile Include="Assets\VolumeLight\Scripts\VLMouseOrbit.js" />
