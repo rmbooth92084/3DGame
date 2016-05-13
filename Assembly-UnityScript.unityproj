@@ -45,6 +45,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\CameraScript.js" />
      <Compile Include="Assets\DropCubes.js" />
      <Compile Include="Assets\ItemS.js" />
      <Compile Include="Assets\VolumeLight\Scripts\UVScroller.js" />
