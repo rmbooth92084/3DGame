@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/scene.unity
+- path: Assets/Capture the flag.unity
   isLoaded: 1
   isActive: 1
