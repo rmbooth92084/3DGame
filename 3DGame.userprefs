@@ -1,9 +1,10 @@
 ﻿<Properties StartupItem="Assembly-CSharp-firstpass.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="c:\Users\154002924\Desktop\3DGame\3DGame\Assets\Editor\ImageEffects\AntialiasingEditor.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\DropCubes.js">
     <Files>
-      <File FileName="Assets\ItemS.js" Line="17" Column="30" />
-      <File FileName="c:\Users\154002924\Desktop\3DGame\3DGame\Assets\Editor\ImageEffects\AntialiasingEditor.cs" Line="7" Column="27" />
+      <File FileName="Assets\DropCubes.js" Line="14" Column="32" />
+      <File FileName="Assets\ItemS.js" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Vehicles\Car\Scripts\CarController.cs" Line="184" Column="22" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

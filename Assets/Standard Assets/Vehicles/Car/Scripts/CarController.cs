@@ -179,9 +179,9 @@ namespace UnityStandardAssets.Vehicles.Car
             {
                 case SpeedType.MPH:
 
-                    speed *= 2.23693629f;
-                    if (speed > m_Topspeed)
-                        m_Rigidbody.velocity = (m_Topspeed/2.23693629f) * m_Rigidbody.velocity.normalized;
+                    speed =150;
+                   // if (speed > m_Topspeed)
+                   //     m_Rigidbody.velocity = (m_Topspeed/2.23693629f) * m_Rigidbody.velocity.normalized;
                     break;
 
                 case SpeedType.KPH:
